@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive deep learning project focused on image classification using the **CIFAR-10 dataset**. The project systematically explores the design space of Convolutional Neural Networks (CNNs), evaluating feature preprocessing techniques, architectural scaling (width and depth), regularization strategies, optimization algorithms, and transfer learning with a pre-trained **VGG16** backbone.
 
-## 👥 Team Members (Student IDs)
+## 👥 Team Members
 | Name | GitHub |
 | :--- | :--- |
 | Youssef Elhelw | [@Youssef-Elhelw](https://github.com/Youssef-Elhelw) |
